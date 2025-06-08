@@ -121,7 +121,7 @@ form .button input:hover {
   background: linear-gradient(-135deg, #71b7e6, #9b59b6);
 }
 /* Responsive media query code for mobile devices */
-@media(max-width: 584px) {
+/* @media(max-width: 584px) {
   .container {
     max-width: 100%;
   }
@@ -139,10 +139,10 @@ form .button input:hover {
   .user-details::-webkit-scrollbar {
     width: 5px;
   }
-}
+} */
 /* Responsive media query code for mobile devices */
 /* @media(max-width: 459px) {
   .container .content .category {
     flex-direction: column;
   } */
-}
+/* } */
